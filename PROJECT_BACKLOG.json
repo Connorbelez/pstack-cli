@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Qualify representative Codex and OpenCode workflows",
+    "body": "Acceptance: provide reproducible verification and record exact source/dependency revisions. See ROADMAP.md for scope."
+  },
+  {
+    "title": "Run locked Bun orchestration and watcher tests",
+    "body": "Acceptance: provide reproducible verification and record exact source/dependency revisions. See ROADMAP.md for scope."
+  },
+  {
+    "title": "Document upstream import review and update procedure",
+    "body": "Acceptance: provide reproducible verification and record exact source/dependency revisions. See ROADMAP.md for scope."
+  },
+  {
+    "title": "Review model preference defaults against current CLI registries",
+    "body": "Acceptance: provide reproducible verification and record exact source/dependency revisions. See ROADMAP.md for scope."
+  }
+]
