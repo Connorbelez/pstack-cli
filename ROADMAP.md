@@ -7,4 +7,4 @@ No stable release is declared by this setup. Complete and record these gates bef
 - Document upstream import review and update procedure.
 - Review model preference defaults against current CLI registries.
 
-Each gate needs a reproducible test or a reviewable evidence record. GitHub issues track the work; a linked GitHub Project groups the backlog when Projects authorization is available.
+Each gate needs a reproducible test or a reviewable evidence record. GitHub issues track the work; the [GitHub Project](https://github.com/users/Connorbelez/projects/20) groups the backlog.
