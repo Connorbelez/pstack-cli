@@ -21,3 +21,7 @@ The validator checks the exact imported inventory, frontmatter, portable contrac
 Keep the CLI portability layer separate while proposing broadly useful wording and bug fixes to pstack's upstream. Native tool mappings, transcript scoping, and fallback paths are intentionally different from the editor bundle. Record upstream changes before re-importing instead of overwriting the adaptation.
 
 [Attribution](ATTRIBUTION.md), [roadmap](ROADMAP.md), and [maintenance](MAINTAINERS.md) describe provenance and current support. The maintainer has not declared a stable cross-harness release.
+
+## Maintenance backlog
+
+The [GitHub Project](https://github.com/users/Connorbelez/projects/20) tracks the roadmap issues and release qualification. See [maintenance](MAINTAINERS.md) for ownership and review expectations.
